@@ -18,7 +18,7 @@ namespace Facebook_Messenger
         public frmMain()
         {
             InitializeComponent();
-            //browser.Navigate("https://www.facebook.com/messages/");
+            browser.Navigate("https://www.facebook.com/messages/");
         }
 
         private void frmMain_Load(object sender, EventArgs e)
@@ -49,7 +49,7 @@ namespace Facebook_Messenger
         private void browser_ProgressChanged(object sender, Gecko.GeckoProgressEventArgs e)
         {
             //progressBar.Maximum = (int)e.MaximumProgress;
-            Text = e.CurrentProgress.ToString();
+            //Text = e.CurrentProgress.ToString();
             //if (e.CurrentProgress == e.MaximumProgress)
             //{
             //    progressBar.Value = 0;

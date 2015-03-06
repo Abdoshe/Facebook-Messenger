@@ -92,3 +92,50 @@ C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Debug\Facebook Messenger
 C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Debug\Facebook_Messenger.Properties.Resources.resources
 C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Debug\Facebook Messenger.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Debug\Facebook_Messenger.frmMain.resources
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\Facebook Messenger.exe.config
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook Messenger.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook Messenger.pdb
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\Geckofx-Core.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\js.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\nss3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\omni.ja
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\platform.ini
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\precomplete
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\redit.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\updater.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\xul.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\Facebook Messenger.exe
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\bin\Debug\Facebook Messenger.pdb
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook Messenger.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook_Messenger.frmMain.resources
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook_Messenger.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Facebook-Messenger\obj\Debug\Facebook Messenger.csproj.GenerateResource.Cache
