@@ -1,0 +1,7 @@
+- Choose themes (Default, Mobile)
+- Notifications (Javascript injection)
+- Cleaner login
+- Consider using WebKit
+- BUG: Fix rounded images being cut
+- BUG: Fix startup progress
+- BUG: Group chat buttons (top right)
