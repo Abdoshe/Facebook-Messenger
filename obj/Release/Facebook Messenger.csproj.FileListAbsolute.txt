@@ -1,0 +1,47 @@
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\Geckofx-Core.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\Geckofx-Winforms.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\AccessibleMarshal.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\breakpadinjector.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\crashreporter.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\crashreporter.ini
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\D3DCompiler_43.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\dependentlibs.list
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\freebl3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\freebl3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\gkmedias.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\IA2Marshal.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\js-gdb.py
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\js.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\libEGL.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\libGLESv2.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\mozalloc.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\mozglue.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\mozjs.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\msvcp100.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\msvcr100.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\nss3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\nssckbi.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\nssdbm3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\nssdbm3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\omni.ja
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\platform.ini
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\plugin-container.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\plugin-hang-ui.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\precomplete
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\README.xulrunner
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\redit.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\softokn3.chk
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\softokn3.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\updater.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\xul.dll
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\xulrunner-stub.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\xulrunner\xulrunner.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\Facebook Messenger.exe.config
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\Facebook Messenger.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\bin\Release\Facebook Messenger.pdb
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook Messenger.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook_Messenger.frmMain.resources
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook_Messenger.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook Messenger.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook Messenger.exe
+C:\Users\Andrew\Documents\GitHub\Facebook Messenger\obj\Release\Facebook Messenger.pdb

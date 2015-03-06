@@ -1,0 +1,269 @@
+/* GENERAL */
+
+body {
+ overflow: hidden;
+ text-rendering: optimizeLegibility;
+ -webkit-font-smoothing: antialiased;
+}
+
+#pagelet_bluebar, #pagelet_dock, #rightCol, #pagelet_sidebar, #leftCol {
+ display: none !Important;
+}
+
+.uiScrollableAreaBody, ._2nb, ._2nc, ._5uj5, ._4rw, .fbx, .noFooter, ._5p3y, _li, body, #content, .fb_content, #contentArea, #contentCol, #mainContainer, ._li, #globalContainer, .uiContextualLayerParent, #contentCol, #pagelet_web_messenger, .fbx #globalContainer {
+ width: 100vw !Important;
+}
+
+#globalContainer, #content {
+ padding-left: none !Important;
+ padding-right: none !Important;
+ width: 100% !Important;
+}
+
+/* FONT */
+
+._5p3y[dir=”ltr”], ._5p3y[dir=”ltr”] button, ._5p3y[dir=”ltr”] input, ._5p3y[dir=”ltr”] label, ._5p3y[dir=”ltr”] select, ._5p3y[dir=”ltr”] td, ._5p3y[dir=”ltr”] textarea, ._5p3y[dir=”ltr”] .uiMentionsInput .highlighter, ._5p3y[dir=”ltr”] .uiButtonText, ._5p3y[dir=”ltr”] .uiButton input, ._5p3y[dir=”ltr”] .uiLinkButton input, ._5p3y[dir=”ltr”] button.as_link, ._5p3y[dir=”ltr”] .fbChatSidebar, ._5p3y[dir=”ltr”] .fbDock, ._5p3y[dir=”ltr”] .fbFeedTicker .fbFeedTickerStory .tickerFeedMessage, ._5p3y[dir=”ltr”] .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h5, ._5p3y[dir=”ltr”] .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h6, ._5p3y[dir=”ltr”] .tickerDialogContent .uiStream .uiStreamMessage, ._5p3y[dir=”ltr”] .tickerDialogContent .uiStream .text_exposed_link, ._5p3y[dir=”ltr”] .uiTooltipX .tooltipContent, ._5p3y[dir=”ltr”] a[role=”button”], ._5p3y[dir=”rtl”] {
+ font-family: ‘Helvetica Neue’, Helvetica !Important;
+}
+
+._36, .webMessengerMessageGroup ._38, ._5p3y .fsm, ._5p3y .uiHeader h3, ._5p3y h4, ._5p3y h5, ._5p3y h6, ._5p3y .UFICommentContent ._5v47 {
+ font-size: 1.25em !Important;
+ font-weight: 400 !Important;
+}
+
+/* BOTTOM BAR */
+
+
+._1rs {
+ background-color: white !Important;
+ border-color: rgb(230,230,230);
+}
+
+._2pt, ._1rt {
+ border: none !Important;
+ border-bottom: none !Important;
+ border-color: transparent;
+}
+
+._2pu {
+ display: none;
+}
+
+._2nb {
+ float: none;
+ position: absolute;
+ top: 0px;
+ left: 0px;
+}
+
+._1rw {
+ background: none !Important;
+ border: none !Important;
+ top: 3px !Important;
+ position: relative !Important;
+}
+
+div._1s5 {
+ left: 90% !Important;
+}
+
+.emoticonsPanel div._5r8f.panelFlyout {
+ right: -10px !Important;
+}
+
+._1rs .emoticonsPanel ._5r8f .panelFlyoutArrow {
+ left: 248px !Important;
+}
+
+.uiTextareaNoResize {
+ font-size: 1.2em !Important;
+}
+
+/* CHAT */
+
+.webMessengerMessageGroup ._38 {
+ margin-right: 0 !Important;
+}
+
+.webMessengerMessageGroup ._3hi p {
+ margin:0 !Important;
+}
+
+.webMessengerMessageGroup ._37 {
+ background-color: rgb(60,142,249);
+ border-radius: 4px;
+ display: inline-block;
+ padding: 5px 10px;
+ color: white;
+ font-weight:600 !Important;
+}
+
+/* AVATAR IN CHAT */
+
+.webMessengerMessageGroup ._38 a {
+ color: white !Important;
+ border-bottom: 1px solid white;
+}
+._50dv {
+ width: 33px;
+ height: 33px;
+ margin-top: 12px;
+ border-radius: 30px;
+}
+
+/* AVATAR IN SIDEBAR */
+
+._56wb, ._55lt img {
+border-radius:50px;
+}
+
+._36 a {
+ line-height: 1.9;
+ margin-top: 15px !Important;
+ font-size: .85em;
+ color: grey !Important;
+ left: 2px;
+ position: relative;
+ display: none;
+}
+
+._42ef ._ohf {
+ float: none;
+ text-align: right;
+ opacity: .5;
+ width: 100%;
+}
+
+._42ef:hover ._ohf {
+ opacity: 1;
+}
+
+.uiButtonText {
+ font-size: 0 !Important;
+ color: white;
+}
+
+.uiButton, ._214, ._211 {
+ border-right: none !Important;
+}
+
+/* TOP BAR */
+
+._3db {
+ background-color: rgb(242,242,248);
+}
+
+/* CHAT TITLE */
+
+h2#webMessengerHeaderName._r7, h2#webMessengerHeaderName._r7 a {
+ font-weight: 400 !Important;
+ color: grey !Important;
+ font-size: 13px !Important;
+ position: relative;
+ margin-left: 13px;
+}
+
+h2#webMessengerHeaderName._r7 {
+ width: 93% !Important;
+max-width: 100% !Important;
+text-align: center !Important;
+}
+
+._4jy0, ._517h {
+ font-size: 0 !Important;
+ -webkit-box-shadow: none;
+ border: none !Important;
+ border-color: transparent !Important;
+ background: transparent !Important;
+ text-shadow: none;
+}
+
+/* SIDEBAR */
+
+.wmMasterView .uiScrollableAreaBody {
+ width: 290px !Important;
+}
+
+.wmMasterView {
+ float: none;
+ position: absolute;
+ z-index: 999;
+ background: #FFF;
+ left: -292px;
+ width: 290px !Important;
+ border-right: 14px solid #2786EB;
+ -webkit-transition: all .3s ease;
+ -moz-transition: all .3s ease;
+ -ms-transition: all .3s ease;
+ -o-transition: all .3s ease;
+ transition: all .3s ease;
+}
+
+.wmMasterView:hover {
+ left: 0px;
+ border-right: 1px solid rgb(200,200,200);
+}
+
+._3j5 {
+ display: none !Important;
+}
+
+.wmMasterView::after {
+ display:none !Important;
+}
+
+._281 {
+ height: 60px !Important;
+}
+
+._281::before {
+ content: ‘Messenger’;
+ font-family: ‘Helvetica Neue’, Helvetica;
+ font-weight: 500;
+ color: rgb(90,90,90);
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 40px;
+ text-align: center;
+ background-color:white;
+ z-index: 999;
+ font-size: 1.3em;
+ padding-top: 20px;
+
+}
+
+._kv:hover, ._kv {
+ background-color: rgb(240,240,240) !Important;
+ border-color: rgb(220,220,220) !Important;
+width: 266px !Important;
+}
+
+._kv ._l4, ._kv ._244, ._kv div._246, ._kv ._l6, ._kv ._l1, li._kv ._l3, ._kv ._l0 {
+ color: rgb(50,50,50) !Important;
+}
+
+._l0 {
+ font-weight: 300 !Important;
+}
+
+.uiScrollableArea {
+ padding-right: 0 !Important;
+ margin-right: 0 !Important;
+}
+
+div.uiScrollableArea._4z0.uiScrollableAreaWithTopShadow.fade.uiScrollableAreaWithShadow.contentAfter {
+ width: 100% !Important;
+}
+
+._l1 {
+ opacity: .8;
+ font-weight: 400 !Important; 
+ font-size: 1.25em;
+}
+
+._5p3y .fsm {
+ font-weight: 300 !Important;
+font-size: 1.1em !Important;
+}

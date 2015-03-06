@@ -1,0 +1,9 @@
+Known Issues:
+- Page load progress
+- Top-right buttons in group chats
+- No image preview for uploads
+
+To-do:
+- Image preview for received messages should be external
+- Notifications for received messages should be external
+- 
